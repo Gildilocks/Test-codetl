@@ -3,4 +3,4 @@ test Project
 
 This is a repo to learn about git and github. 
 
-@Gildilocks
+@gildilocks
